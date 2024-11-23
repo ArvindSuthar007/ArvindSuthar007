@@ -5,7 +5,7 @@
 
 ### 🚀 My Goals
 - 💻 Master the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>
-- 📚 Crack NIMCET 2025 and pursue MCA at a top-tier institute.<br>
+- 📚 Crack NIMCET 2026 and pursue MCA at a top-tier institute.<br>
 - 🌟 Contribute to open-source projects (aiming for GSoC 2025).<br>
 - 🎯 Build impactful personal projects that solve real-world problems.
 
