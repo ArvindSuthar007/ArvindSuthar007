@@ -17,7 +17,7 @@
 - 🔍 Exploring: Open Source Contributions and GitHub Communities.
 
 [![Arvind's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvindsuthar007&show_icons=true&theme=gotham&bg_color=00000000&rank_icon=github&hide_border=true&custom_title=Arvind's+Github+Stats)](https://github.com/arvindsuthar007/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsuthar007&layout=compact&theme=gotham&bg_color=00000000&hide_border=true)](https://github.com/arvindsuthar007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsuthar007&layout=donut&theme=gotham&bg_color=00000000&hide_border=true)](https://github.com/arvindsuthar007/github-readme-stats)
 
 ### 💻 Tech Stack:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br>
@@ -43,3 +43,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arvindsuthar007&repo=Cats-Cards&theme=gotham&bg_color=00000000)](https://github.com/arvindsuthar007/Cats-Cards)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arvindsuthar007&repo=PomodoTrack&theme=gotham&bg_color=00000000)](https://github.com/arvindsuthar007/PomodoTrack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arvindsuthar007&repo=Todo-App&theme=gotham&bg_color=00000000)](https://github.com/arvindsuthar007/Todo-App)
