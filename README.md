@@ -1,12 +1,12 @@
 ## Hi there I'm Arvind 👋
 - An aspiring Full-Stack Developer and DevOps Enthusiast 
-- Pursuing a Bachelor of Computer Applications (BCA) at MGSU, Bikaner, Rajasthan, India.
+- Pursuing a Bachelor of Computer Applications (BCA) from MGSU, Bikaner, Rajasthan, India.
 - I'm passionate about building scalable applications, exploring open source, and sharpening my development skills. 🚀
 
 ### 🚀 My Goals
-- 💻 Master the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>
-- 📚 Crack NIMCET 2026 and pursue MCA at a top-tier institute.<br>
-- 🌟 Contribute to open-source projects (aiming for GSoC 2025).<br>
+- 💻 Master the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+- 📚 Crack NIMCET 2026 and pursue MCA at a top-tier institute.
+- 🌟 Contribute to open-source projects (aiming for GSoC 2025).
 - 🎯 Build impactful personal projects that solve real-world problems.
 
 ### 🛠️ Current Focus
