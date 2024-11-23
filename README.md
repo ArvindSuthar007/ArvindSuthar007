@@ -7,18 +7,6 @@
 - Pursuing a Bachelor of Computer Applications (BCA) from MGSU, Bikaner, Rajasthan, India.
 - I'm passionate about building scalable applications, exploring open source, and sharpening my development skills. 🚀
 
-### 🚀 My Goals
-- 💻 Master the MERN Stack (MongoDB, Express.js, React.js, Node.js).
-- 📚 Crack NIMCET 2026 and pursue MCA at a top-tier institute.
-- 🌟 Contribute to open-source projects (aiming for GSoC 2025).
-- 🎯 Build impactful personal projects that solve real-world problems.
-
-### 🛠️ Current Focus
-- 🛠️ Building Projects:
-  - Cloning and enhancing the Pomodoro Timer website.
-  - Designing a portfolio website to showcase my work.
-- 🌱 Learning: Advanced React and Node.js.
-- 🔍 Exploring: Open Source Contributions and GitHub Communities.
 
 [![Arvind's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvindsuthar007&show_icons=true&theme=gotham&bg_color=00000000&rank_icon=github&hide_border=true&custom_title=Arvind's+Github+Stats)](https://github.com/arvindsuthar007/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsuthar007&layout=donut&theme=gotham&bg_color=00000000&hide_border=true)](https://github.com/arvindsuthar007/github-readme-stats)
@@ -50,6 +38,17 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)<br>
 
 ### Main Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arvindsuthar007&repo=PomodoTrack&theme=gotham&bg_color=00000000)](https://github.com/arvindsuthar007/PomodoTrack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arvindsuthar007&repo=PomodoTrack&theme=gotham&bg_color=00000000&description_lines_count=1)](https://github.com/arvindsuthar007/PomodoTrack)
 
+### 🚀 My Goals
+- 💻 Master the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+- 📚 Crack NIMCET 2026 and pursue MCA at a top-tier institute.
+- 🌟 Contribute to open-source projects (aiming for GSoC 2025).
+- 🎯 Build impactful personal projects that solve real-world problems.
 
+### 🛠️ Current Focus
+- 🛠️ Building Projects:
+  - Cloning and enhancing the Pomodoro Timer website.
+  - Designing a portfolio website to showcase my work.
+- 🌱 Learning: Advanced React and Node.js.
+- 🔍 Exploring: Open Source Contributions and GitHub Communities.
