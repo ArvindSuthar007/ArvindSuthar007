@@ -1,4 +1,8 @@
-## Hi there I'm Arvind 👋
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Namaste%2C+Welcome+to+my+Mini+World!" alt="Typing SVG" />
+</h1>
+
+### Hi there I'm Arvind 👋
 - An aspiring Full-Stack Developer and DevOps Enthusiast 
 - Pursuing a Bachelor of Computer Applications (BCA) from MGSU, Bikaner, Rajasthan, India.
 - I'm passionate about building scalable applications, exploring open source, and sharpening my development skills. 🚀
