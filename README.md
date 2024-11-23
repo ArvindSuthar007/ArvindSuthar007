@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there I'm Arvind 👋
+- An aspiring Full-Stack Developer and DevOps Enthusiast 
+- Pursuing a Bachelor of Computer Applications (BCA) at MGSU, Bikaner, Rajasthan, India.
+- I'm passionate about building scalable applications, exploring open source, and sharpening my development skills. 🚀
 
-<!--
-**ArvindSuthar007/ArvindSuthar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 My Goals
+- 💻 Master the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>
+- 📚 Crack NIMCET 2025 and pursue MCA at a top-tier institute.<br>
+- 🌟 Contribute to open-source projects (aiming for GSoC 2025).<br>
+- 🎯 Build impactful personal projects that solve real-world problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Focus
+- 🛠️ Building Projects:
+  - Cloning and enhancing the Pomodoro Timer website.
+  - Designing a portfolio website to showcase my work.
+- 🌱 Learning: Advanced React and Node.js.
+- 🔍 Exploring: Open Source Contributions and GitHub Communities.
