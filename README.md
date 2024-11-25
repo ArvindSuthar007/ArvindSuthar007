@@ -1,6 +1,4 @@
-<h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2aa889&random=false&width=535&lines=%E2%9C%A8+Hi+there!+I'm+Arvind+%E2%9C%A8" alt="Typing SVG" />
-</h1>
+<h1 align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2aa889&random=false&width=535&lines=%E2%9C%A8+Hi+there!+I'm+Arvind+%E2%9C%A8" alt="Typing SVG" /></h1>
 
 - I'm passionate about building scalable applications, exploring open source, and sharpening my development skills. 🚀
 - Pursuing a Bachelor of Computer Applications (BCA) from MGSU, Bikaner, Rajasthan, India.
